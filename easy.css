@@ -1,0 +1,5 @@
+html, body{
+    font-family: 'Licorice', cursive;
+    font-family: 'Source Sans 3', sans-serif;
+    background-image: linear-gradient(to right top, #e74258, #e73d56, #e83853, #e83251, #e82b4f, #de264a, #d52146, #cb1b41, #b61739, #a21332, #8e0f2a, #7a0b23);
+}
